@@ -48,6 +48,27 @@ their order history
 
 
 ## Customer app
+
+| List products | List categories | Product details |
+| :-------------: |:-------------:| :-----:|
+![](screenshots/customer.home.x.jpg)|![](screenshots/customer.cate.x.jpg) | ![](screenshots/customer.productDetails.x.jpg) 
+
+| Shop’s products | Shop’s categories | Shop Info|
+| :-------------: |:-------------:| :-----:|
+![](screenshots/customer.shop.x.jpg)|![](screenshots/customer.shop.cate.x.jpg)|![](screenshots/customer.shop.info.x.jpg) 
+
+| Cart | Place order | Addresses |
+| :-------------: |:-------------:| :-----:|
+![](screenshots/customer.cart.x.jpg)|![](screenshots/customer.order.x.jpg) | ![](screenshots/customer.address.x.jpg) 
+
+| List orders | Order details | Order operations |
+| :-------------: |:-------------:| :-----:|
+![](screenshots/customer.listOrders.x.jpg)|![](screenshots/customer.orderDetails.x.jpg) | ![](screenshots/customer.rebuy.x.jpg) 
+
+| To review | Do review | List reviewed |
+| :-------------: |:-------------:| :-----:|
+![](screenshots/customer.toreview.x.jpg)|![](screenshots/customer.review.x.jpg) | ![](screenshots/customer.reviewed.x.jpg) 
+
 # Demo videos
 # Seller app
 # Customer app
