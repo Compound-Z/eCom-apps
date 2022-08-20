@@ -1,4 +1,4 @@
-*The sourcecode of this project is intentionally keep private*
+<mark>*The sourcecode of this project is intentionally keep private*</mark>
 
 # Table of contents
 1. [Description](#Description)
