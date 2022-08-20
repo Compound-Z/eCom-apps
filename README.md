@@ -70,5 +70,5 @@ their order history
 ![](screenshots/customer.toreview.x.jpg)|![](screenshots/customer.review.x.jpg) | ![](screenshots/customer.reviewed.x.jpg) 
 
 # Demo videos
-# Seller app
-# Customer app
+[Seller app](https://photos.app.goo.gl/bhpiCFPsJGQd3NG49)
+[Customer app](https://photos.app.goo.gl/Y6F4dXS7B4CBhYjj7)
