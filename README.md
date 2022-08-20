@@ -42,6 +42,9 @@ their order history
 | :-------------: |:-------------:| :-----:|
 ![](screenshots/seller.home.x.jpg)|![](screenshots/seller.fork.x.jpg) | ![](screenshots/seller.category.x.jpg) 
 
+| List orders | List reviews | Sale results |
+| :-------------: |:-------------:| :-----:|
+![](screenshots/seller.order.x.jpg)|![](screenshots/seller.review.x.jpg) | ![](screenshots/seller.saleStatistics.x.jpg) 
 
 
 ## Customer app
