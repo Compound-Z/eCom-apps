@@ -10,7 +10,7 @@
 Two mobile apps, one for sellers and one for customers, that allow them to sell and buy groceries
 # System Analysis <a name="System_Analysis"></a>
 ## System's detailed descriptions
-From the crucial features of those big names, this system will be designed as
+This system will be designed as
 below. The app serves 2 types of users:
 - Seller: Users who want to sell grocery products. They need to have an seller
 account and have to authenticate with the system.
