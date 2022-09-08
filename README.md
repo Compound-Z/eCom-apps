@@ -1,11 +1,10 @@
-```The sourcecode of this project is intentionally keep private```
-
 # Table of contents
 1. [Description](#Description)
 2. [System Analysis](#System_Analysis)
 3. [System Design](#System_Design)
 4. [Final Product](#Final_Product)
 5. [Demo videos](#Demo_videos)
+6. [Source codes](#Sourcecode)
 # Description  <a name="Description"></a>
 Two mobile apps, one for sellers and one for customers, that allow them to sell and buy groceries
 # System Analysis <a name="System_Analysis"></a>
@@ -84,3 +83,10 @@ their order history
 [Seller app](https://photos.app.goo.gl/bhpiCFPsJGQd3NG49)
 
 [Customer app](https://photos.app.goo.gl/Y6F4dXS7B4CBhYjj7)
+
+# Source codes <a name="Sourcecode"></a>
+[Server](https://github.com/Compound-Z/ecom-server)
+
+[Customer app](https://github.com/Compound-Z/eCom)
+
+[Seller app](https://github.com/Compound-Z/ecom-sellerCenter)
